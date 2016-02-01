@@ -3,6 +3,11 @@ Perfil Developer
 
 Profile design based on Design Material for developers.
 
+<div align="center">
+        <img width="45%" src="screenShots/ide.png" alt="About screen" title="About screen"</img>
+        <img height="0" width="8px">
+</div>
+
 Configuration
 ================
 
