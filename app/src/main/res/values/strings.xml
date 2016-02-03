@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Perfil-DevAndroid</string>
     <string name="action_settings">Settings</string>
-    <string name="tv_nombre">Fahed Hermoza Salcedo</string>
+    <string name="tv_nombre">Gordon Fox Terrier</string>
     <string name="tv_cargo">Developer Android</string>
-    <string name="tv_ubicacion">Quillabamba, Cusco, Perú</string>
+    <string name="tv_ubicacion">Kansas City, EEUU</string>
     <string name="tv_SubItem_1">Methodology</string>
     <string name="tv_SubItem_2">Git</string>
     <string name="tv_SubItem_3">Android Studio</string>

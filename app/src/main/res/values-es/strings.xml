@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perfil-DevAndroid</string>
+    <string name="action_settings">Configuración</string>
+    <string name="tv_nombre">Fahed Hermoza Salcedo</string>
+    <string name="tv_cargo">Desarrollador Android</string>
+    <string name="tv_ubicacion">Cusco, Perú</string>
+    <string name="tv_SubItem_1">Metodologia</string>
+    <string name="tv_SubItem_2">Git</string>
+    <string name="tv_SubItem_3">Android Studio</string>
+    <string name="tv_SubItem_4">UX</string>
+    <string name="tv_SubItem_5">UI</string>
+    <string name="tv_SubItem_6">Ingeniero</string>
+</resources>

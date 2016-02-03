@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perfil-DevAndroid</string>
+    <string name="action_settings">設定</string>
+    <string name="tv_nombre">Yuito Kawakami Hayashi</string>
+    <string name="tv_cargo">開発者 アンドロイド</string>
+    <string name="tv_ubicacion">Tokio, Japón</string>
+    <string name="tv_SubItem_1">方法論</string>
+    <string name="tv_SubItem_2">Gitリポジトリ</string>
+    <string name="tv_SubItem_3">アンドロイド スタジオ</string>
+    <string name="tv_SubItem_4">UX</string>
+    <string name="tv_SubItem_5">UI</string>
+    <string name="tv_SubItem_6">エンジニア</string>
+</resources>

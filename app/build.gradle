@@ -26,4 +26,5 @@ dependencies {
     compile 'com.android.support:design:23.1.1'
     compile 'com.android.support:cardview-v7:23.1.1'
     compile 'com.klinkerapps:android-chips:1.0.1@aar'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
 }
