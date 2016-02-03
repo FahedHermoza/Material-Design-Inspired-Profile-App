@@ -17,7 +17,7 @@ Configuration
 - Adapter for phones and tablets.
 
 <div align="center">
-        <img width="45%" src="screenShots/fondo_perfil.png" alt="About screen" title="About screen"</img>
-        <img height="0" width="8px">
+        <img width="70%" src="screenShots/fondo_perfil.png" alt="About screen" title="About screen"</img>
+        <img height="0" width="32px">
 </div>
 
