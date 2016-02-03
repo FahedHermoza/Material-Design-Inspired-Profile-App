@@ -11,9 +11,9 @@ Profile design based on Design Material for developers.
 Configuration
 ================
 
-- Lenguaje Android.
+- Build in lenguaje Android.
 - This project support android 4.0+.
-- language Spanish, English, French and Japanese.
+- Language Spanish, English, French and Japanese.
 - Adapter for phones and tablets.
 
 <div align="center">
